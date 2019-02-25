@@ -14,6 +14,14 @@
 
 `<main>`, `</main>` tags tells the browser what's the main content of the document
 
+`<table>`, `</table>` - table comes from tabular data. It stores data in form of a table. 
+
+`<tr>`, `</tr>` - represents a row of cells in a table.
+
+`<th>`, `</th>` - represents the header cell of a table.
+
+`<td>`, `</td>` - represents the data cell of a table.
+
 `<article>`, `</article>` tags has been introduced with the new HTML5. It has almost the same purpose as "`<p>`, `</p>`" tags. It specifies independent, self-containted content that can be distributed independently from the rest of the site. Same examples with this tags can include forum posts, blog posts, comments etc.
 
 `<aside>`, `</aside>` tags has been introduced with the new HTML5 version. This is used to relate content aside from the content it is placed in. It should be related to the surrounding content.
