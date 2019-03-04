@@ -41,7 +41,7 @@
 - `<div id ="...">`, `</div>` is used when you want to use the styles on a single element;
 - `<a href="link here" target="..."`, `</a>` when the "a" element has a "href" attribute, then it represents a hyperlink labeled by its contents;
 - `<p>`, `</p>` - represents a paragraph;
-- `<img src="insert source here" alt="insert image name here">`, `</img>` - this represents an image and src is the source of the image and alt is the name of the image;
+- `<img src="insert source here" alt="insert image name here">` - this represents an image and src is the source of the image and alt is the name of the image;
 - `<script src="index.js">`, `</script>` - this allow users to insert dynamic script and data blocks in their code from another resource.
 
 `<footer>`, `</footer>` tags are used for copyright, links and some other informations like that. They are also new from HTML5.
